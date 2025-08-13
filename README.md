@@ -4,18 +4,8 @@
 - This project focuses on the classification of different types of mushrooms found in various regions of the world. The classification is based on images of mushrooms, and the goal is to use deep learning techniques for accurate species recognition.
 - By applying transfer learning and deep learning methodologies, the project aims to accurately classify mushrooms into three main categories: Boletus, Lactarius, and Russula. These categories represent different types of mushrooms found in diverse regions worldwide. The ultimate objective is to develop a robust and reliable classification system for mushroom species recognition based on their visual attributes.
 
-## **Screenshots**
 
-### Home Page:
-<p align="center">
- <img src="https://drive.google.com/uc?export=view&id=1yBSh7zuDdUp8OQcxDxwxwZCf2UYlkPQO" width="800" height="auto" alt="Your Image Description">
 
-</p>
-
-### Mushroom Classification Result:
-<p align="center">
- <img src="https://drive.google.com/uc?export=view&id=1gQ9ZSEXVydIrZwm0XUdYouLbkYFCJnGp" width="800" height="auto" alt="Classification Results Display">
-</p>
 
 ## **Installation and Setup**
 
@@ -29,7 +19,8 @@ conda create -n mushroom_classifier python=3.10
 conda activate mushroom_classifier
 
 # Clone the repository
-git clone https://github.com/Rohitmh09/AI-Mushroom-Classification-Analysis.git
+git clone  https://github.com/OmkarShrikantMane/mushroom-kingdom-classification.git
+
 cd AI-Mushroom-Classification-Analysis-master
 
 # Install dependencies
